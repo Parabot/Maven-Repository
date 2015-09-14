@@ -2,8 +2,6 @@ Explanation
 ===================
 This tutorial explains on how to deploy new updates to the version control of Parabot.
 
-[TOC]
-
 VC
 ------------
 The Version Control of Parabot is based on a webhook within this repository.
