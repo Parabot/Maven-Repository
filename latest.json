@@ -1,5 +1,5 @@
 {
-   "explanation":"This JSON file is used for version management, so that we can simply download the latest version. This should be kept up to date too.",
+   "explanation":"This JSON file is used for version management, so that we can simply download the latest version. \nThis should be kept up to date too.",
    "dependencies":{
       "317-api-minified":{
          "groupId":"org.parabot",
