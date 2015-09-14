@@ -1,0 +1,11 @@
+{
+   "explanation":"This JSON file is used for version management, so that we can simply download the latest version. This should be kept up to date too.",
+   "versions":[
+      {
+         "317-api-minified":"1.1"
+      },
+      {
+         "client":"2.2"
+      }
+   ]
+}
