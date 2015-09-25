@@ -26,7 +26,7 @@
         </dependency>
         <dependency>
             <groupId>org.parabot</groupId>
-            <artifactId>317-API-Minified</artifactId>
+            <artifactId>317-api-minified</artifactId>
             <version>1.13</version>
         </dependency>
     </dependencies>
