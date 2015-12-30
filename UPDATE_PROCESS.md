@@ -35,6 +35,7 @@ Updating the client is the most complicated, but also the most important one.
 **When updating the client, make sure the version in either ```latest.json```, ```pom.xml``` and ```Configuration.java``` match each other.**
 
 To update the version do the following:
+
 0. Clone the Maven-Repository into the same parent directory as the client/provider directory. 
 1. Take a quick look at the versioning, make sure each version in all files of above match each other
 2. Start cleaning your Maven directories with ```mvn clean```
