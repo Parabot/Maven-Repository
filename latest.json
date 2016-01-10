@@ -9,7 +9,7 @@
       "client":{
          "groupId":"org.parabot",
          "artifactId":"client",
-         "version":"2.4.3"
+         "version":"2.4.3.2"
       }
    }
 }
